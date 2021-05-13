@@ -1,5 +1,5 @@
 # BlueRex
-Bootstrap - Landing Page
+## Landing Page
 
 - Home page
 
